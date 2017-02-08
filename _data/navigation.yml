@@ -1,0 +1,19 @@
+# main links
+main:
+
+  # - title: "INDEX"
+  #   url:  /blog/
+  - title: "TAGS"
+    url: /tags/
+  - title: "CATEGORIES"
+    url: /categories/
+  - title: "ABOUT"
+    url: /aboutme/
+  - title: "常用网站"
+    url: /usualLink/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
