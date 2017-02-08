@@ -1,4 +1,3 @@
-
 # 2017-02-05-virualbox 里的 openwrt
 
 用 virualbox 里的 openwrt 这个**虚拟路由器**接管宿主的所有流量, 在虚拟路由里做透明代理。就相当绑了一个 openwrt 路由在电脑上。
